@@ -4,10 +4,10 @@ Este es un monorepo que contiene los proyectos de frontend y backend como submó
 
 Estructura del Proyecto:
 ```bash
-banking/\
-├── frontend/        # Submódulo que contiene el proyecto frontend en Angular\
-├── backend/         # Submódulo que contiene el proyecto backend en Django\
-├── .gitmodules      # Archivo de configuración para los submódulos de Git\
+banking/
+├── frontend/        # Submódulo que contiene el proyecto frontend en Angular
+├── backend/         # Submódulo que contiene el proyecto backend en Django
+├── .gitmodules      # Archivo de configuración para los submódulos de Git
 └── README.md        # Este archivo
 ```
 
